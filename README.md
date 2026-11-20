@@ -4,3 +4,4 @@ Tổng hợp bài tập và mindmap của Session 11 (Python – tuple). Mỗi b
 
 ## Danh sách bài
 
+- [Mindmap Python Session 11 - Tuple & Dict](./mind-map-python-session-11/)
